@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[Your LinkedIn Profile Link]](https://www.linkedin.com/in/arthur-holubov-410a66210/)">
+  <a href="https://www.linkedin.com/in/arthur-holubov-410a66210/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[Your Portfolio Link]">
