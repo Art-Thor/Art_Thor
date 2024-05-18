@@ -50,10 +50,6 @@ I'm a passionate developer specializing in **React**, **Go**, **Python**, and de
 *   **AI Ethics:** Analyzing the ethical implications of AI usage and developing responsible AI solutions.
 *   **High-Performance Computing:** Optimizing application performance and leveraging modern computational resources.
 
-## 📈 My GitHub Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username])](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Let's Connect!
 
 I'm always open to new opportunities and exciting projects. Feel free to reach out to me via LinkedIn or email. Let's build something amazing together!
